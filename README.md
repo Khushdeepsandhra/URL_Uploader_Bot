@@ -4,17 +4,16 @@
 ![Repo Size](https://img.shields.io/github/repo-size/AJTimePyro/URL_Uploader_Bot?color=yellow&style=for-the-badge)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg?style=for-the-badge)](https://t.me/URL_UploaderAJ_Bot)
 ![License](https://img.shields.io/github/license/AJTimePyro/URL_Uploader_Bot?style=for-the-badge)
-[![Bot Support](https://img.shields.io/badge/URL%20Support-Support%20Group-blue?style=for-the-badge)](https://t.me/AJPyroVerseGroup)
-[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?style=for-the-badge)](https://t.me/AJPyroVerse)
+[![Bot Support](https://img.shields.io/badge/URL%20Support-Support%20Group-blue?style=for-the-badge)](https://t.me/Punjabi_movies_2022_2023)
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg?style=for-the-badge)](https://t.me/khushdeep_deep)
 ![Commit Activity](https://img.shields.io/github/commit-activity/m/AJTimePyro/URL_Uploader_Bot?style=for-the-badge)
 
 # URL Uploader Bot
 
 This is the source code of [URL Uploader Bot](https://t.me/URL_UploaderAJ_Bot).
-And the developer of this bot is [AJTimePyro](https://t.me/AJTimePyro), His Telegram [Channel](http://t.me/AJPyroVerse) & [Group](http://t.me/AJPyroVerseGroup).
-
+And the developer of this bot is [khushdeepsandhra](https://t.me/khushdeepsandhra), His Telegram [Channel](https://t.me/PB_Bots_channel) & [Group](https://t.me/Punjabi_movies_2022_2023)
 You can use this source code in any way but you need to **give credit** to its
-Developer AJTimePyro.
+Developer khushdeepsandhra.
 
 **Don't Forget to give a Star.**
 
